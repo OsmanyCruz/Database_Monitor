@@ -53,17 +53,6 @@ The project is structured following best practices in Flutter, with a clear sepa
 - **Dart**: Programming language used for logic development.
 - **Material Design**: Design standards used for the graphical interface.
 
-## Screenshots
-
-### Home Screen
-![Home](assets/screenshots/screen1.png)
-
-### Login Screen
-![Connections](assets/screenshots/screen2.png)
-
-### Collapsed Home Screen
-![Users](assets/screenshots/screen3.png)
-
 ## Contributions
 
 This demo is open-source, and any contributions are welcome. If you would like to contribute, follow these steps:
